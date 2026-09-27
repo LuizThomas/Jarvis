@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Assistente Pessoal",
+  "description": "Assistente de IA conversacional em janela pop-up inspirado em JARVIS para o Sr. Stark, focado em produtividade, planejamento e execução de tarefas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
